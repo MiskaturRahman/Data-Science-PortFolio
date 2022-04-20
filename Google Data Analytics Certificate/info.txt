@@ -1,0 +1,19 @@
+Analysts use data-driven decision-making and follow a step-by-step process. You have learned that there are six steps to this process:
+
+Ask questions and define the problem.
+Prepare data by collecting and storing the information.
+Process data by cleaning and checking the information.
+Analyze data to find patterns, relationships, and trends.
+Share data with your audience.
+Act on the data and use the analysis results.
+
+
+
+he process presented as part of the Google Data Analytics Certificate is one that will be valuable to you as you keep moving forward in your career:
+
+Ask: Business Challenge/Objective/Question
+Prepare: Data generation, collection, storage, and data management
+Process: Data cleaning/data integrity
+Analyze: Data exploration, visualization, and analysis
+Share: Communicating and interpreting results 
+Act:  Putting your insights to work to solve the problem

@@ -1,0 +1,380 @@
+{
+  "playlists": [
+    {
+      "name": "Pill",
+      "lastModifiedDate": "2021-09-27",
+      "items": [
+        {
+          "track": {
+            "trackName": "Na Ja",
+            "artistName": "Pav Dharia",
+            "albumName": "Na Ja",
+            "trackUri": "spotify:track:32LKwbmh6yVsWoRRF8DIvf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
+            "artistName": "Ved Sharma",
+            "albumName": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
+            "trackUri": "spotify:track:25MPTnqXQB1H6OkwSYUXWx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Humraah (From \"Malang - Unleash The Madness\")",
+            "artistName": "Sachet Tandon",
+            "albumName": "Humraah (From \"Malang - Unleash The Madness\")",
+            "trackUri": "spotify:track:4xmkpE1Si5JL7NFxWrhV0S"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "BurjKhalifa (From \"Laxmii\")",
+            "artistName": "Shashi",
+            "albumName": "BurjKhalifa (From \"Laxmii\")",
+            "trackUri": "spotify:track:3ZVKI8jix6PjEFx2xFBFhz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Param Sundari",
+            "artistName": "A.R. Rahman",
+            "albumName": "Mimi",
+            "trackUri": "spotify:track:3KeMulXbLDJBQdY5PZbGEh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Reputation (feat. Joe Janiak)",
+            "artistName": "Avicii",
+            "albumName": "TIM",
+            "trackUri": "spotify:track:0HZgYFimoJG9Ijy8InUWcV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heaven",
+            "artistName": "Avicii",
+            "albumName": "TIM",
+            "trackUri": "spotify:track:0vrmHPfoBadXVr2n0m1aqZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "De Mauka Zindagi",
+            "artistName": "Nilotpal Bora",
+            "albumName": "Aspirants: Season 1 (Music From the TVF Original Series)",
+            "trackUri": "spotify:track:2OwsHXukerkNFIwmNMi7E3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nain Bengali",
+            "artistName": "Guru Randhawa",
+            "albumName": "Nain Bengali",
+            "trackUri": "spotify:track:7ubcUpGvWOQf5ae5dpZb6b"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mann Bharryaa 2.0 (From \"Shershaah\")",
+            "artistName": "B Praak",
+            "albumName": "Mann Bharryaa 2.0",
+            "trackUri": "spotify:track:3jf5303mzzJ96O8xFTcEn4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chuup Chaap Thaaki",
+            "artistName": "Muza",
+            "albumName": "Chuup Chaap Thaaki",
+            "trackUri": "spotify:track:4P0tPAmabKtV67MD7EXdjp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Behula",
+            "artistName": "Shunno",
+            "albumName": "Behula",
+            "trackUri": "spotify:track:18KPyTq6Al56l0vMPQFjR1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Naamta Janalo Na (feat. Haji Springer)",
+            "artistName": "Master D",
+            "albumName": "Naamta Janalo Na (feat. Haji Springer)",
+            "trackUri": "spotify:track:043x1NoC1kAkoeOA9V680b"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Raanjhanaa",
+            "artistName": "A.R. Rahman",
+            "albumName": "Raanjhanaa (Original Motion Picture Soundtrack)",
+            "trackUri": "spotify:track:5OMUXgfXsSukZ0zxelpC3b"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ranjha (From \"Shershaah\")",
+            "artistName": "Jasleen Royal",
+            "albumName": "Ranjha",
+            "trackUri": "spotify:track:72zHuDxFQTjbL51qJQSA7j"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Zinda",
+            "artistName": "Shankar-Ehsaan-Loy",
+            "albumName": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+            "trackUri": "spotify:track:7vZz8oJ5qAqB9MghufRK5k"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Todun Taak (From \"Toofaan\")",
+            "artistName": "Dub Sharma",
+            "albumName": "Todun Taak (From \"Toofaan\")",
+            "trackUri": "spotify:track:6BZKrmmTlFmEGnSoufCWJE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shiddat Title Track (From \"Shiddat\")",
+            "artistName": "Manan Bhardwaj",
+            "albumName": "Shiddat Title Track (From \"Shiddat\")",
+            "trackUri": "spotify:track:6CTN8S2qzPwZdwwp0Nugvy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rihaayi De",
+            "artistName": "A.R. Rahman",
+            "albumName": "Mimi",
+            "trackUri": "spotify:track:5C10OXEl9FAz4hcktww0le"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Barbaadiyan",
+            "artistName": "Sachet Tandon",
+            "albumName": "Shiddat",
+            "trackUri": "spotify:track:6qZyM6JV8ohLC4S2EL5sFh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kya Mujhe Pyaar Hai",
+            "artistName": "Pritam",
+            "albumName": "Woh Lamhe",
+            "trackUri": "spotify:track:3HFjh7QljnUCBLsoTwMuTj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Toofaan Title Track",
+            "artistName": "Siddharth Mahadevan",
+            "albumName": "Toofaan",
+            "trackUri": "spotify:track:3flisu6bjEj0T2fmqSVIKn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kya Mujhe Pyaar Hai? - Lofi Mix",
+            "artistName": "Vicky Singh",
+            "albumName": "Kya Mujhe Pyaar Hai? - Lofi Mix",
+            "trackUri": "spotify:track:0w4qC8Ujy13p55XUIquohG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Boy X Bad Girl (feat. Nikhita Gandhi)",
+            "artistName": "Badshah",
+            "albumName": "Bad Boy X Bad Girl (feat. Nikhita Gandhi)",
+            "trackUri": "spotify:track:6LvHrLiW1z8PS7MIAiufKg"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bhul Korina",
+            "artistName": "Muza",
+            "albumName": "Bhul Korina",
+            "trackUri": "spotify:track:2YfwIXqqGh3skoB8tJfDOj"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "eh:/",
+      "lastModifiedDate": "2021-10-01",
+      "items": [
+        {
+          "track": {
+            "trackName": "Ready to love",
+            "artistName": "SEVENTEEN",
+            "albumName": "SEVENTEEN 8th Mini Album 'Your Choice'",
+            "trackUri": "spotify:track:2FymmKBuog0loCuNXMwQID"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I’Ll Be Waiting (Kabhi Jo Baadal)",
+            "artistName": "Arjun",
+            "albumName": "I’Ll Be Waiting (Kabhi Jo Baadal)",
+            "trackUri": "spotify:track:1T61XNwkeaBkKji55y22xb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let Me Hear",
+            "artistName": "Fear, and Loathing in Las Vegas",
+            "albumName": "Feeling of Unity",
+            "trackUri": "spotify:track:5sqkarfxe7UejHTlCtHCLS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "NEED (ooo-eee)",
+            "artistName": "LØREN",
+            "albumName": "NEED (ooo-eee)",
+            "trackUri": "spotify:track:3EBfvHP8Xgy96it1X7pBhZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Y U COMEBACK",
+            "artistName": "4MIX",
+            "albumName": "Y U COMEBACK",
+            "trackUri": "spotify:track:1Ny5GcorjuaG7XU7rMrtqv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "REMEMBER ME",
+            "artistName": "BDC",
+            "albumName": "BOYS DA CAPO",
+            "trackUri": "spotify:track:3eD9JGv9003iMeIJoLIACH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "0 (zero) -English version-",
+            "artistName": "LMYK",
+            "albumName": "0 (zero)",
+            "trackUri": "spotify:track:6ZQF510c9Fki9X7VTJw2kc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Universe",
+            "artistName": "Coldplay",
+            "albumName": "My Universe",
+            "trackUri": "spotify:track:3FeVmId7tL5YN8B7R3imoM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All About You",
+            "artistName": "ATEEZ",
+            "albumName": "ZERO : FEVER Part.3",
+            "trackUri": "spotify:track:4bamfTJc0GuUDYnc3fj6zH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lemonade",
+            "artistName": "NCT 127",
+            "albumName": "Sticker - The 3rd Album",
+            "trackUri": "spotify:track:6txVOdSbg928oeGhlVUrdK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sticker",
+            "artistName": "NCT 127",
+            "albumName": "Sticker - The 3rd Album",
+            "trackUri": "spotify:track:1iGQpclvzonFNzy7Ko89V7"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
