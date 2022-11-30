@@ -1,0 +1,49 @@
+INNER JOIN:
+is used when retrieving data from multiple
+tables and will return only matching data.
+
+LEFT OUTER JOIN:
+is used when retrieving data from
+multiple tables and will return
+left table and any matching right table records.
+
+RIGHT OUTER JOIN:
+is used when retrieving data from
+multiple tables and will return right
+table and any matching left table records
+
+FULL OUTER JOIN:
+is used when retrieving data from
+multiple tables and will return both
+table records, matching and non-matching.
+
+UNION ALL:
+COMBINES THE RESULT OF 2 QUERY AND
+DOESN'T REMOVE DUPLICATE ROWS
+AND DOESN'T SORT BY FIRST COLUMN
+
+UNION:
+COMBINES THE RESULT OF 2 QUERY AND
+REMOVES DUPLICATE ROWS AND
+SORTS BY FIRST COLUMN 
+
+INTERSECT:
+BASICALLY INTERSECT COMBINES COMMON
+ELEMENTS OF BOTH TABLES
+
+EXCEPT 
+returns distinct rows from the left input query that aren't output by the right input query
+
+A semi join returns a row from one join input (A) if there is at least one matching row on the other join input (B).
+
+
+
+
+
+
+
+
+
+
+
+
